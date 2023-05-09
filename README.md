@@ -6,3 +6,4 @@ tekst...
 
 * Oskar
 * Pika
+* Filip

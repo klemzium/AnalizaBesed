@@ -1,1 +1,7 @@
 # AnalizaBesed
+
+tekst...
+
+## Avtor
+
+* Oskar
